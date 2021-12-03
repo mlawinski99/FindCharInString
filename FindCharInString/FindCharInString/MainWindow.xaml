@@ -1,0 +1,57 @@
+﻿   <Window x:Class="FindCharInString.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FindCharInString"
+        mc:Ignorable="d"
+        Title="Find Char in string" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="65*"/>
+        </Grid.ColumnDefinitions>
+
+        <Button Content="Browse a file"
+                Name ="Browse"
+                Padding="5,2"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                Width="120" Height="40" Click="Clicked"   
+                RenderTransformOrigin="1.047,0.821" Grid.Column="1" Margin="119,74,0,0" />
+
+        <Label FontWeight="Bold" Margin="43,167,564,212" Height="40" Grid.Column="1">Wybierz skrypt:</Label>
+        <RadioButton IsChecked="true"  Name ="checkbox1" Width="70" Margin="55,207,655,172" Grid.Column="1" >C++</RadioButton>
+        <RadioButton Name ="checkbox2" Width="70" Margin="55,235,655,144" Grid.Column="1">ASM</RadioButton>
+
+        <TextBox  IsReadOnly="true"  Height="43" Margin="257,74,124,0" TextWrapping="Wrap"
+                 Text="Your file" VerticalAlignment="Top" Name="fileName" Grid.Column="1"/>
+
+        <Label FontWeight="Bold" Margin="330,185,308,194" Height="40" Grid.Column="1" Content="Podaj szukany znak:"/>
+        <TextBox 
+             HorizontalAlignment="Left" Padding="5,2"
+                VerticalAlignment="Top"
+            TextWrapping="Wrap"
+            Name="charName" MaxLength="1" Text =""  Grid.Column="1"  TextChanged="TextBox_TextChanged" Margin="359,225,0,0" Width="65" Height="34"/>
+        <Button  HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                 Content="START"  Width="120" Height="40" Grid.Column="1" Margin="330,306,0,0" Click="Button_Click"></Button>
+
+        <Label FontWeight="Bold" Margin="588,167,42,212" Height="40" Grid.Column="1" RenderTransformOrigin="0.5,0.5" Content="Wybierz liczbę wątków:"/>
+        <ComboBox  HorizontalAlignment="Left"
+                VerticalAlignment="Top"
+                   Height="23" Margin="640,203,0,0" Grid.Column="1" RenderTransformOrigin="0.5,0.5"
+                   Name="ThreadBox">
+            
+            <ComboBoxItem IsSelected="True" Content="1"></ComboBoxItem>
+            <ComboBoxItem Content="2"></ComboBoxItem>
+            <ComboBoxItem Content="4"></ComboBoxItem>
+            <ComboBoxItem Content="8"></ComboBoxItem>
+            <ComboBoxItem Content="16"></ComboBoxItem>
+            <ComboBoxItem Content="32"></ComboBoxItem>
+            <ComboBoxItem Content="64"></ComboBoxItem>
+        </ComboBox>
+
+
+    </Grid>
+</Window>

@@ -1,0 +1,15 @@
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\FindCharInString.csprojAssemblyReference.cache
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\MainWindow.g.cs
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\App.g.cs
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\FindCharInString_MarkupCompile.cache
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\FindCharInString_MarkupCompile.lref
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\bin\Debug\FindCharInString.exe.config
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\bin\Debug\FindCharInString.exe
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\bin\Debug\FindCharInString.pdb
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\MainWindow.baml
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\FindCharInString.g.resources
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\FindCharInString.Properties.Resources.resources
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\FindCharInString.csproj.GenerateResource.cache
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\FindCharInString.csproj.CoreCompileInputs.cache
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\FindCharInString.exe
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Debug\FindCharInString.pdb

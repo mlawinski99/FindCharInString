@@ -1,0 +1,14 @@
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\MainWindow.g.cs
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\App.g.cs
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\FindCharInString_MarkupCompile.cache
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\FindCharInString_MarkupCompile.lref
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\bin\Release\FindCharInString.exe.config
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\bin\Release\FindCharInString.exe
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\bin\Release\FindCharInString.pdb
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\MainWindow.baml
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\FindCharInString.g.resources
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\FindCharInString.Properties.Resources.resources
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\FindCharInString.csproj.GenerateResource.cache
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\FindCharInString.csproj.CoreCompileInputs.cache
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\FindCharInString.exe
+D:\Politechnika v2\5 semestr\JA_projekt\FindCharInString\FindCharInString\obj\Release\FindCharInString.pdb
